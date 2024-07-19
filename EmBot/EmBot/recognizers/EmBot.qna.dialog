@@ -1,0 +1,9 @@
+{
+  "$kind": "Microsoft.MultiLanguageRecognizer",
+  "id": "QnA_EmBot",
+  "recognizers": {
+    "en-us": "EmBot.en-us.qna",
+    "sv-ax": "EmBot.sv-ax.qna",
+    "": "EmBot.sv-ax.qna"
+  }
+}

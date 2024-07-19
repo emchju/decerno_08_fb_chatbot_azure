@@ -1,0 +1,7 @@
+{
+  "$kind": "Microsoft.QnAMakerRecognizer",
+  "id": "QnA_EmBot",
+  "knowledgeBaseId": "=settings.qna.EmBot_sv_ax_qna",
+  "hostname": "=settings.qna.hostname",
+  "endpointKey": "=settings.qna.endpointKey"
+}
